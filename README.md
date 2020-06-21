@@ -69,7 +69,7 @@ lockdown period.
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
-https://github.com/Gyaan-Portal/Gyaan-Portal-Web.git
+https://github.com/H-Jaipur/Gyaan-Portal-Web.git
 ```
 
 3. Install the Packages: 
